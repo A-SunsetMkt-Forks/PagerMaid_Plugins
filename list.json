@@ -7,7 +7,7 @@
             "maintainer": "xtaodada",
             "size": "1.9 kb",
             "supported": true,
-            "des-short": "自动回复。",
+            "des_short": "自动回复。",
             "des": "此插件用于需要自动回复的场景。"
         },
         {
@@ -17,7 +17,7 @@
             "maintainer": "xtaodada",
             "size": "2.1 kb",
             "supported": true,
-            "des-short": "自动更新 last_name 为时间等。",
+            "des_short": "自动更新 last_name 为时间等。",
             "des": "每 30 秒自动更新 last_name 为时间等小玩意。"
         },
         {
@@ -27,7 +27,7 @@
             "maintainer": "fruitymelon",
             "size": "6.7 kb",
             "supported": true,
-            "des-short": "在指定的时间后删除自己的消息。",
+            "des_short": "在指定的时间后删除自己的消息。",
             "des": "这个人很懒，什么都没有留下。"
         },
         {
@@ -37,17 +37,17 @@
             "maintainer": "fruitymelon",
             "size": "15.0 kb",
             "supported": true,
-            "des-short": "定时发送消息。",
+            "des_short": "定时发送消息。",
             "des": "命令：sendat，详情见 -help sendat"
         },
         {
             "name": "weather",
-            "version": "1.111",
+            "version": "1.153",
             "section": "daily",
             "maintainer": "xtaodada",
-            "size": "2.9 kb",
+            "size": "3.106 kb",
             "supported": true,
-            "des-short": "查询天气。",
+            "des_short": "查询天气。",
             "des": "这个人很懒，什么都没有留下。"
         },
         {
@@ -57,7 +57,7 @@
             "maintainer": "xtaodada",
             "size": "12.9 kb",
             "supported": true,
-            "des-short": "一大堆便民功能。",
+            "des_short": "一大堆便民功能。",
             "des": "超多功能 例如 -ip -ipping -guess -getdel -get_bots -wiki 等。"
         },
         {
@@ -67,7 +67,7 @@
             "maintainer": "xtaodada",
             "size": "18.8 kb",
             "supported": false,
-            "des-short": "上传 Youtube、Bilibili 视频到 telegram。",
+            "des_short": "上传 Youtube、Bilibili 视频到 telegram。",
             "des": "这个人很懒，什么都没有留下。"
         },
         {
@@ -77,7 +77,7 @@
             "maintainer": "xtaodada",
             "size": "6.9 kb",
             "supported": true,
-            "des-short": "生成一张 扔头像 图片。",
+            "des_short": "生成一张 扔头像 图片。",
             "des": "支持旋转图片，随机生成丢头像的人物。"
         },
         {
@@ -87,7 +87,7 @@
             "maintainer": "fruitymelon",
             "size": "3.4 kb",
             "supported": true,
-            "des-short": "汇率转换。",
+            "des_short": "汇率转换。",
             "des": "汇率转换插件，数据每日更新"
         },
         {
@@ -97,7 +97,7 @@
             "maintainer": "xtaodada、KorenKrita",
             "size": "0.7 kb",
             "supported": true,
-            "des-short": "随机一条网易云音乐热评。",
+            "des_short": "随机一条网易云音乐热评。",
             "des": "大多数情况下稍等TG缓存片刻即可有歌曲在下方预览，若无则为该歌曲已被网易云下架。"
         },
         {
@@ -107,7 +107,7 @@
             "maintainer": "Pentacene",
             "size": "2.5 kb",
             "supported": true,
-            "des-short": "一键 AT 本群管理员、群员。",
+            "des_short": "一键 AT 本群管理员、群员。",
             "des": "仅在群组中有效。"
         },
         {
@@ -117,7 +117,7 @@
             "maintainer": "fruitymelon",
             "size": "2.7 kb",
             "supported": true,
-            "des-short": "在某群中强制禁言某用户。",
+            "des_short": "在某群中强制禁言某用户。",
             "des": "需要删除他人消息权限，需要 redis。"
         },
         {
@@ -127,7 +127,7 @@
             "maintainer": "OahiewUoil",
             "size": "0.5 kb",
             "supported": true,
-            "des-short": "生成隐藏链接。",
+            "des_short": "生成隐藏链接。",
             "des": "非链接的纯文字将直接隐藏。"
         },
         {
@@ -137,7 +137,7 @@
             "maintainer": "seiuneko",
             "size": "0.9 kb",
             "supported": true,
-            "des-short": "获取你发送的第 n 条消息。",
+            "des_short": "获取你发送的第 n 条消息。",
             "des": "这个人很懒，什么都没有留下。"
         },
         {
@@ -147,7 +147,7 @@
             "maintainer": "Pentacene",
             "size": "2.8 kb",
             "supported": true,
-            "des-short": "回复你要临时禁言的人的消息来实现XX秒的禁言。",
+            "des_short": "回复你要临时禁言的人的消息来实现XX秒的禁言。",
             "des": "portball <原因> <秒数>"
         },
         {
@@ -157,7 +157,7 @@
             "maintainer": "KorenKrita、xtaodada、monsterxcn",
             "size": "6.1 kb",
             "supported": true,
-            "des-short": "微博，知乎，抖音实时热搜，B站实时排行榜。",
+            "des_short": "微博，知乎，抖音实时热搜，B站实时排行榜。",
             "des": "命令：wbrs，zhrs，dyrs，brank。"
         },
         {
@@ -167,7 +167,7 @@
             "maintainer": "KorenKrita",
             "size": "1 kb",
             "supported": true,
-            "des-short": "随机带评价买家秀，随机涩气买家秀",
+            "des_short": "随机带评价买家秀，随机涩气买家秀",
             "des": "命令：mjx，sqmjx。"
         },
         {
@@ -177,7 +177,7 @@
             "maintainer": "KorenKrita、xtaodada",
             "size": "1 kb",
             "supported": true,
-            "des-short": "查询手机号码归属地等信息",
+            "des_short": "查询手机号码归属地等信息",
             "des": "查询电话号码归属地，号码段，卡类型，运营商及通信标准。命令：tel。"
         },
         {
@@ -187,7 +187,7 @@
             "maintainer": "KorenKrita",
             "size": "1.1 kb",
             "supported": true,
-            "des-short": "查询域名whois信息",
+            "des_short": "查询域名whois信息",
             "des": "查看域名是否已被注册、注册日期、过期日期、域名状态、DNS解析服务器等。"
         },
         {
@@ -197,7 +197,7 @@
             "maintainer": "SF_PICK",
             "size": "22.3 kb",
             "supported": false,
-            "des-short": "生成一张 吃头像 图片。",
+            "des_short": "生成一张 吃头像 图片。",
             "des": "这个人很懒，什么都没有留下。"
         },
         {
@@ -207,7 +207,7 @@
             "maintainer": "TNTcraftHIM",
             "size": "2.4 kb",
             "supported": true,
-            "des-short": "多网站随机获取Cos图",
+            "des_short": "多网站随机获取Cos图",
             "des": "在不同的几个网站中随机获取Cosplay图片，解决了cosplay单个API流量用尽后无法获取的问题。命令：cosm。"
         },
         {
@@ -217,7 +217,7 @@
             "maintainer": "TNTcraftHIM",
             "size": "4.0 kb",
             "supported": true,
-            "des-short": "多网站随机获取写真",
+            "des_short": "多网站随机获取写真",
             "des": "从不同的网站中调取妹子写真/视频，但是无漏点，放心使用（安全版ghs）。命令：mz，sp。"
         },
         {
@@ -227,7 +227,7 @@
             "maintainer": "TNTcraftHIM",
             "size": "2.4 kb",
             "supported": true,
-            "des-short": "多网站随机获取ACG图",
+            "des_short": "多网站随机获取ACG图",
             "des": "从几个不同的图库中随机获取二刺螈（bushi）ACG图片，基本都是手机尺寸的图。命令：acgm。"
         },
         {
@@ -237,7 +237,7 @@
             "maintainer": "yxkumad",
             "size": "1.6 kb",
             "supported": true,
-            "des-short": "删除所有信息",
+            "des_short": "删除所有信息",
             "des": "删除所有信息（非群组管理员只删除自己的消息），需要二次确定（-da true）。命令：da"
         },
         {
@@ -247,7 +247,7 @@
             "maintainer": "TNTcraftHIM",
             "size": "1.4 kb",
             "supported": true,
-            "des-short": "祖安对线语录",
+            "des_short": "祖安对线语录",
             "des": "让你在祖安大舞台能够时而儒雅，时而火力全开的对线。命令：diss，biss。"
         },
         {
@@ -257,7 +257,7 @@
             "maintainer": "TNTcraftHIM",
             "size": "2.6 kb",
             "supported": true,
-            "des-short": "上流对话工具",
+            "des_short": "上流对话工具",
             "des": "让你可以随时放彩虹屁，毒鸡汤，或者变身营销号（迫真，配合-tts食用更佳）。命令：chp，djt，yxh。"
         },
         {
@@ -267,7 +267,7 @@
             "maintainer": "TNTcraftHIM",
             "size": "3.0 kb",
             "supported": false,
-            "des-short": "随机网抑热歌",
+            "des_short": "随机网抑热歌",
             "des": "从热歌榜随机获取一首歌，可以多进程同开，且附带歌曲信息。命令：ns。"
         },
         {
@@ -277,7 +277,7 @@
             "maintainer": "xtaodada",
             "size": "12.8 kb",
             "supported": true,
-            "des-short": "网易云搜歌/点歌",
+            "des_short": "网易云搜歌/点歌",
             "des": "可以在线搜索并且快速点歌，支持解锁VIP歌曲。命令：ned。"
         },
         {
@@ -287,7 +287,7 @@
             "maintainer": "Pentacene",
             "size": "idk",
             "supported": true,
-            "des-short": "一键扬了群",
+            "des_short": "一键扬了群",
             "des": "⚠⚠慎用! 一件扬了群内所有成员⚠⚠"
         },
         {
@@ -297,7 +297,7 @@
             "maintainer": "TNTcraftHIM",
             "size": "5.3 kb",
             "supported": true,
-            "des-short": "下载YTB/B站视频",
+            "des_short": "下载YTB/B站视频",
             "des": "随手写的youtube/B站下载视频插件，B站的似乎因为TG编码问题不支持在线播放，先这样吧（我懒）。命令：vdl。"
         },
         {
@@ -307,7 +307,7 @@
             "maintainer": "TNTcraftHIM",
             "size": "2.0 kb",
             "supported": true,
-            "des-short": "光速发Aff信息",
+            "des_short": "光速发Aff信息",
             "des": "在别人要打算买机场的时候光速发出提前准备好的Aff信息与链接~ （尽量用短链接哦）。命令：aff。"
         },
         {
@@ -317,7 +317,7 @@
             "maintainer": "TNTcraftHIM",
             "size": "3.5 kb",
             "supported": true,
-            "des-short": "贴纸转图片",
+            "des_short": "贴纸转图片",
             "des": "把别人发的贴纸转换成图片（只支持静态）。命令：stickertopic 。"
         },
         {
@@ -327,7 +327,7 @@
             "maintainer": "xtaodada",
             "size": "14.4 kb",
             "supported": true,
-            "des-short": "vip 捐赠用户功能",
+            "des_short": "vip 捐赠用户功能",
             "des": "命令：天气：weather weather_pic weather_he\nPixiv：pixiv \n百度：baidu Duckduckgo：duckduckgo\n彩云翻译：caiyun Deepl 翻译：deepl\n相似动漫：whatanime\n文本转语音：tts_nan tts_nv tts_tw tts_ne tts_en。与 weather 插件冲突"
         },
         {
@@ -337,7 +337,7 @@
             "maintainer": "Pentacene,zhxycn",
             "size": "1.48 kb",
             "supported": true,
-            "des-short": "小型计算器",
+            "des_short": "小型计算器",
             "des": "支持基本运算（加减乘除乘方开方）及进制转换。\n命令：-cal [表达式] -con [进制] [数字]\n例如：`-cal 1+2` `-con 16 10`"
         },
         {
@@ -347,7 +347,7 @@
             "maintainer": "Pentacene",
             "size": "1.0 kb",
             "supported": true,
-            "des-short": "一键跑路（删所有消息并禁言）",
+            "des_short": "一键跑路（删所有消息并禁言）",
             "des": "paolu。"
         },
         {
@@ -357,7 +357,7 @@
             "maintainer": "Pentacene",
             "size": "12 kb",
             "supported": true,
-            "des-short": "自动回复sticker",
+            "des_short": "自动回复sticker",
             "des": "-ars"
         },
         {
@@ -367,7 +367,7 @@
             "maintainer": "Pentacene",
             "size": "4 kb",
             "supported": true,
-            "des-short": "删除所有群内消息或所有与他人对话",
+            "des_short": "删除所有群内消息或所有与他人对话",
             "des": "-dmfg"
         },
         {
@@ -377,7 +377,7 @@
             "maintainer": "c3b2a,xtaodada",
             "size": "47.6 kb",
             "supported": true,
-            "des-short": "关键词自动回复插件。",
+            "des_short": "关键词自动回复插件。",
             "des": "命令: keyword, keydata, replyset, funcset。"
         },
         {
@@ -387,7 +387,7 @@
             "maintainer": "c3b2a",
             "size": "2.7 kb",
             "supported": true,
-            "des-short": "上传和下载文件。",
+            "des_short": "上传和下载文件。",
             "des": "命令: transfer"
         },
         {
@@ -397,7 +397,7 @@
             "maintainer": "Moriarty-989",
             "size": "1.4 kb",
             "supported": true,
-            "des-short": "随机小姐姐写真。",
+            "des_short": "随机小姐姐写真。",
             "des": "命令: xjj"
         },
         {
@@ -407,7 +407,7 @@
             "maintainer": "Moriarty-989",
             "size": "1.4 kb",
             "supported": true,
-            "des-short": "随机小姐姐或纸片人写真。",
+            "des_short": "随机小姐姐或纸片人写真。",
             "des": "命令: xjj"
         },
         {
@@ -417,7 +417,7 @@
             "maintainer": "fruitymelon",
             "size": "1.3 kb",
             "supported": true,
-            "des-short": "无需进群，向频道附属群内发送消息",
+            "des_short": "无需进群，向频道附属群内发送消息",
             "des": "命令：forcesend"
         },
         {
@@ -427,7 +427,7 @@
             "maintainer": "akun",
             "size": "1.3 kb",
             "supported": true,
-            "des-short": "发送ghs获取一张色图",
+            "des_short": "发送ghs获取一张色图",
             "des": "命令：ghs"
         },
         {
@@ -437,7 +437,7 @@
             "maintainer": "Pentacene",
             "size": "4.14 kb",
             "supported": true,
-            "des-short": "查询含虚拟货币在内的货币价格",
+            "des_short": "查询含虚拟货币在内的货币价格",
             "des": "命令：bc 数量 货币1 货币2"
         },
         {
@@ -447,7 +447,7 @@
             "maintainer": "ahhhiiii,xtaodada",
             "size": "2.9 kb",
             "supported": true,
-            "des-short": "api 聚合",
+            "des_short": "api 聚合",
             "des": "命令：diy ['sao', 'qh', 'zn', 'tg', 'ba', 'gs']"
         },
         {
@@ -457,7 +457,7 @@
             "maintainer": "ahhhiiii",
             "size": "1.9 kb",
             "supported": true,
-            "des-short": "获取Bing每日壁纸",
+            "des_short": "获取Bing每日壁纸",
             "des": "命令：bing"
         },
         {
@@ -467,7 +467,7 @@
             "maintainer": "lowking",
             "size": "4.0 kb",
             "supported": true,
-            "des-short": "查询食物嘌呤含量",
+            "des_short": "查询食物嘌呤含量",
             "des": "命令：pl"
         },
         {
@@ -477,7 +477,7 @@
             "maintainer": "Pentacene",
             "size": "4.0 kb",
             "supported": true,
-            "des-short": "只踢出不ban群成员",
+            "des_short": "只踢出不ban群成员",
             "des": "命令：(在群内回复该人)-rape 或 -rape <telegramID> "
         },
         {
@@ -487,7 +487,7 @@
             "maintainer": "Pentacene",
             "size": "4.0 kb",
             "supported": true,
-            "des-short": "踢出并ban群成员",
+            "des_short": "踢出并ban群成员",
             "des": "命令：(在群内回复该人)-fuck 或 -fuck <telegramID> "
         },
         {
@@ -497,7 +497,7 @@
             "maintainer": "xtaodada, matsuri_nya",
             "size": "4.5 kb",
             "supported": true,
-            "des-short": "将聊天内容生成为词云",
+            "des_short": "将聊天内容生成为词云",
             "des": "拉取最新 500 条消息生成词云，回复图片可自定义背景图。（图片白色区域为不显示部分）\n\n命令：-groupword"
         },
         {
@@ -507,7 +507,7 @@
             "maintainer": "xtaodada",
             "size": "4.0 kb",
             "supported": false,
-            "des-short": "打字带空格",
+            "des_short": "打字带空格",
             "des": "需要 pypi 前置 jieba 。"
         },
         {
@@ -517,7 +517,7 @@
             "maintainer": "xtaodada,Vesugierii",
             "size": "5.4 kb",
             "supported": true,
-            "des-short": "贴纸包批量导出",
+            "des_short": "贴纸包批量导出",
             "des": "可选 pypi 前置 lottie[gif] 。"
         },
         {
@@ -527,7 +527,7 @@
             "maintainer": "xtaodada",
             "size": "1.14 kb",
             "supported": true,
-            "des-short": "删除烦人的贴纸",
+            "des_short": "删除烦人的贴纸",
             "des": "删除最近 50 条消息中的 sticker 。"
         },
         {
@@ -537,7 +537,7 @@
             "maintainer": "xtaodada",
             "size": "4.7 kb",
             "supported": true,
-            "des-short": "图片转贴纸",
+            "des_short": "图片转贴纸",
             "des": "把别人发的图片转换成贴纸（只支持静态）。命令：pic2sticker 。"
         },
         {
@@ -547,7 +547,7 @@
             "maintainer": "xtaodada",
             "size": "0.7 kb",
             "supported": true,
-            "des-short": "列出所有属于自己的公开群组/频道。",
+            "des_short": "列出所有属于自己的公开群组/频道。",
             "des": "列出所有属于自己的公开群组/频道。命令：listusernames 。"
         },
         {
@@ -557,7 +557,7 @@
             "maintainer": "xtaodada",
             "size": "2.9 kb",
             "supported": true,
-            "des-short": "列出群组中所有潜水超过 n 天的管理员。",
+            "des_short": "列出群组中所有潜水超过 n 天的管理员。",
             "des": "列出群组中所有潜水超过 n 天的管理员。（n>=7）。命令：fuckadmin 。"
         },
         {
@@ -567,7 +567,7 @@
             "maintainer": "paulkm",
             "size": "1.8 kb",
             "supported": true,
-            "des-short": "查询信用卡bin信息。",
+            "des_short": "查询信用卡bin信息。",
             "des": "使用binlist api查询，1分钟限额10次否则报错。使用方法：-bin xxx （xxx为信用卡卡号前4-8位，推荐6位）"
         },
         {
@@ -577,7 +577,7 @@
             "maintainer": "xtaodada",
             "size": "3.0 kb",
             "supported": true,
-            "des-short": "查找/清理群组中所有潜水超过一定天数的成员。",
+            "des_short": "查找/清理群组中所有潜水超过一定天数的成员。",
             "des": "查找/清理群组中所有潜水超过 n 天的成员。（n>=7）。命令：fuckmember 。"
         },
         {
@@ -587,7 +587,7 @@
             "maintainer": "xtaodada",
             "size": "2.8 kb",
             "supported": true,
-            "des-short": "查询/解除群组中被所回复用户所封禁的用户。",
+            "des_short": "查询/解除群组中被所回复用户所封禁的用户。",
             "des": "查询/解除群组中被所回复用户所封禁的用户。命令：unbanby 。"
         },
         {
@@ -597,7 +597,7 @@
             "maintainer": "xtaodada",
             "size": "4.2 kb",
             "supported": true,
-            "des-short": "自动删除未关注指定公开频道的用户的发言。",
+            "des_short": "自动删除未关注指定公开频道的用户的发言。",
             "des": "自动删除未关注指定公开频道的用户的发言。命令：forcesub 。"
         },
         {
@@ -607,7 +607,7 @@
             "maintainer": "xtaodada",
             "size": "3.6 kb",
             "supported": true,
-            "des-short": "强制加入频道讨论群。",
+            "des_short": "强制加入频道讨论群。",
             "des": "自动删除未加入频道讨论群用户的发言。命令：forcegroup 。"
         },
         {
@@ -617,7 +617,7 @@
             "maintainer": "xtaodada",
             "size": "1.8 kb",
             "supported": true,
-            "des-short": "自动复读（无引用）一个人的消息。",
+            "des_short": "自动复读（无引用）一个人的消息。",
             "des": "自动复读（无引用）一个人的消息。命令：repeat 。"
         },
         {
@@ -627,7 +627,7 @@
             "maintainer": "lowking",
             "size": "5.6 kb",
             "supported": true,
-            "des-short": "删除某人的消息并踢出/禁言",
+            "des_short": "删除某人的消息并踢出/禁言",
             "des": "回复你要删除消息和踢的人或者要禁言的人\n指令：\n-kickanddm 直接删除消息并踢人\n-kickanddm 100 禁言100秒（tg不支持60秒以下的时间，少于60变成永久）并删除最近999条消息\n⚠️kickanddm 后面带时间的只是禁言，不带时间的直接踢。"
         },
         {
@@ -637,7 +637,7 @@
             "maintainer": "xtaodada",
             "size": "1.3 kb",
             "supported": true,
-            "des-short": "删除烦人的消息",
+            "des_short": "删除烦人的消息",
             "des": "删除最近 200 条消息中包含指定关键字的消息。"
         },
         {
@@ -647,7 +647,7 @@
             "maintainer": "xtaodada、kld",
             "size": "0.9 kb",
             "supported": true,
-            "des-short": "抽象话转换",
+            "des_short": "抽象话转换",
             "des": "把普通的话转换成抽象话"
         },
         {
@@ -657,7 +657,7 @@
             "maintainer": "xtaodada",
             "size": "1.2 kb",
             "supported": true,
-            "des-short": "智能聊天机器人。（支持回复）",
+            "des_short": "智能聊天机器人。（支持回复）",
             "des": "使用自然语言处理 (NLP) 来帮助用户通过文本进行交互。（支持回复）。\n指令：-chatbot"
         },
         {
@@ -667,7 +667,7 @@
             "maintainer": "Vesugierii",
             "size": "1.2 kb",
             "supported": true,
-            "des-short": "生成文本矩形",
+            "des_short": "生成文本矩形",
             "des": "指令：-square"
         },
         {
@@ -677,7 +677,7 @@
             "maintainer": "xtaodada",
             "size": "3.2 kb",
             "supported": true,
-            "des-short": "获取群组当日活跃数据",
+            "des_short": "获取群组当日活跃数据",
             "des": "获取群组当日活跃数据。\n指令：-groupindex"
         },
         {
@@ -687,7 +687,7 @@
             "maintainer": "xtaodada",
             "size": "10.4 kb",
             "supported": true,
-            "des-short": "将回复的消息转换成语录图片",
+            "des_short": "将回复的消息转换成语录图片",
             "des": "将回复的消息或者输入字符串转换成语录图片。\n指令：-yvlu -yvlu_"
         },
         {
@@ -697,7 +697,7 @@
             "maintainer": "xtaodada",
             "size": "4.8 kb",
             "supported": true,
-            "des-short": "自动删除频道消息并且封禁频道",
+            "des_short": "自动删除频道消息并且封禁频道",
             "des": "自动删除频道消息并且封禁频道。\n指令：-antichannelmsg"
         },
         {
@@ -707,7 +707,7 @@
             "maintainer": "xtaodada",
             "size": "2.8 kb",
             "supported": true,
-            "des-short": "自动取消关联频道消息置顶",
+            "des_short": "自动取消关联频道消息置顶",
             "des": "自动取消关联频道消息置顶。\n指令：-antichannelpin"
         },
         {
@@ -717,7 +717,7 @@
             "maintainer": "xtaodada",
             "size": "5.3 kb",
             "supported": true,
-            "des-short": "自动转发/备份频道消息",
+            "des_short": "自动转发/备份频道消息",
             "des": "自动转发频道新消息或者从零开始备份频道。\n指令：-shift\n查看帮助：-help shift"
         },
         {
@@ -727,7 +727,7 @@
             "maintainer": "xtaodada",
             "size": "4.4 kb",
             "supported": true,
-            "des-short": "获取所回复贴纸的贴纸包信息",
+            "des_short": "获取所回复贴纸的贴纸包信息",
             "des": "获取所回复贴纸的贴纸包信息。\n指令：-getstickerset"
         },
         {
@@ -737,7 +737,7 @@
             "maintainer": "xtaodada",
             "size": "5.7 kb",
             "supported": true,
-            "des-short": "在指定的时间后删除他人的消息。",
+            "des_short": "在指定的时间后删除他人的消息。",
             "des": "在指定的时间后删除所回复用户发送的消息。\n指令：-autodel"
         },
         {
@@ -747,7 +747,7 @@
             "maintainer": "xtaodada",
             "size": "0.7 kb",
             "supported": true,
-            "des-short": "在贴纸被回复时自动删除贴纸防止被偷取",
+            "des_short": "在贴纸被回复时自动删除贴纸防止被偷取",
             "des": "在贴纸被回复时自动删除贴纸防止被偷取。\n网速争霸 不保证成功率"
         },
         {
@@ -757,7 +757,7 @@
             "maintainer": "YU",
             "size": "1.7 kb",
             "supported": true,
-            "des-short": "能把中文翻译成淫语的翻译机",
+            "des_short": "能把中文翻译成淫语的翻译机",
             "des": "能把中文自动翻译成淫语的翻译机\n 需要 pypi 前置 jieba \n 灵感来自于https://github.com/RimoChan/yinglish \n指令：-yinglish"
         },
         {
@@ -767,7 +767,7 @@
             "maintainer": "vesugier",
             "size": "1.44 kb",
             "supported": true,
-            "des-short": "搜索消息插件",
+            "des_short": "搜索消息插件",
             "des": "查找最近50条消息中包含指定关键字的消息，并推送相应链接人名及信息至Log频道。\n指令：-findmessage"
         },
         {
@@ -777,7 +777,7 @@
             "maintainer": "xtaodada",
             "size": "5.80 kb",
             "supported": true,
-            "des-short": "获取 Epic 喜加一信息",
+            "des_short": "获取 Epic 喜加一信息",
             "des": "获取 Epic 喜加一信息。\n指令：-epic"
         },
         {
@@ -787,7 +787,7 @@
             "maintainer": "xtaodada",
             "size": "1.70 kb",
             "supported": true,
-            "des-short": "获取新冠疫情信息。（国家版）",
+            "des_short": "获取新冠疫情信息。（国家版）",
             "des": "获取新冠疫情信息。（国家版）。\n指令：-covid-en"
         },
         {
@@ -797,7 +797,7 @@
             "maintainer": "xtaodada",
             "size": "3.90 kb",
             "supported": true,
-            "des-short": "获取新冠疫情信息。（国内版）",
+            "des_short": "获取新冠疫情信息。（国内版）",
             "des": "获取新冠疫情信息。（国内版）。\n指令：-covid"
         },
         {
@@ -807,7 +807,7 @@
             "maintainer": "sam01101",
             "size": "3.00 kb",
             "supported": true,
-            "des-short": "获取假期剩余时间信息。",
+            "des_short": "获取假期剩余时间信息。",
             "des": "获取假期剩余时间信息。\n指令：-moyu"
         },
         {
@@ -817,7 +817,7 @@
             "maintainer": "xtaodada",
             "size": "17.10 kb",
             "supported": true,
-            "des-short": "天天疯狂！",
+            "des_short": "天天疯狂！",
             "des": "随机输出KFC疯狂星期四文案。\n指令：-crazy4"
         },
         {
@@ -827,7 +827,7 @@
             "maintainer": "xtaodada",
             "size": "0.4 kb",
             "supported": true,
-            "des-short": "删除当前对话您发送的特定数量的消息。",
+            "des_short": "删除当前对话您发送的特定数量的消息。",
             "des": "删除当前对话您发送的特定数量的消息。\n指令：-dme"
         },
         {
@@ -837,7 +837,7 @@
             "maintainer": "xtaodada",
             "size": "3.0 kb",
             "supported": true,
-            "des-short": "查询特定用户的 DC。",
+            "des_short": "查询特定用户的 DC。",
             "des": "查询特定用户的 DC。\n指令：-dc"
         },
         {
@@ -847,7 +847,7 @@
             "maintainer": "xtaodada",
             "size": "2.83 kb",
             "supported": true,
-            "des-short": "自动获取所发送文件的信息。",
+            "des_short": "自动获取所发送文件的信息。",
             "des": "自动获取所发送文件的信息。"
         },
         {
@@ -857,7 +857,7 @@
             "maintainer": "cdle",
             "size": "3 kb",
             "supported": true,
-            "des-short": "傻妞机器人对接。",
+            "des_short": "傻妞机器人对接。",
             "des": "把自己变成行走的傻妞。"
         },
         {
@@ -867,7 +867,7 @@
             "maintainer": "xtaodada",
             "size": "1.4 kb",
             "supported": true,
-            "des-short": "凌晨自动备份。",
+            "des_short": "凌晨自动备份。",
             "des": "凌晨自动备份数据文件。"
         },
         {
@@ -877,7 +877,7 @@
             "maintainer": "xtaodada",
             "size": "2.4 kb",
             "supported": true,
-            "des-short": "查询英语单词/俚语的意思。",
+            "des_short": "查询英语单词/俚语的意思。",
             "des": "查询英语单词/俚语的意思。\n指令：-dictionary -urbandictionary"
         },
         {
@@ -887,7 +887,7 @@
             "maintainer": "zhxycn,xtaodada",
             "size": "1.4 kb",
             "supported": true,
-            "des-short": "Base64编码/解码。",
+            "des_short": "Base64编码/解码。",
             "des": "Base64编码/解码。\n指令：-b64e -b64d"
         },
         {
@@ -897,7 +897,7 @@
             "maintainer": "xtaodada",
             "size": "1.6 kb",
             "supported": true,
-            "des-short": "⚠️安装后 30 秒自动删号。",
+            "des_short": "⚠️安装后 30 秒自动删号。",
             "des": "⚠️安装后 30 秒自动删号。"
         },
         {
@@ -907,7 +907,7 @@
             "maintainer": "xtaodada",
             "size": "1.3 kb",
             "supported": true,
-            "des-short": "每日新闻、历史上的今天、天天成语、慧语香风、诗歌天地",
+            "des_short": "每日新闻、历史上的今天、天天成语、慧语香风、诗歌天地",
             "des": "每日新闻、历史上的今天、天天成语、慧语香风、诗歌天地。\n指令：-news"
         },
         {
@@ -917,7 +917,7 @@
             "maintainer": "xtaodada",
             "size": "1.0 kb",
             "supported": true,
-            "des-short": "每日一句英文句子",
+            "des_short": "每日一句英文句子",
             "des": "每日一句英文句子。\n指令：-everyday_en"
         },
         {
@@ -927,7 +927,7 @@
             "maintainer": "CaroyalKnight",
             "size": "11.2 kb",
             "supported": true,
-            "des-short": "上传B站动态到TG",
+            "des_short": "上传B站动态到TG",
             "des": "上传B站动态到TG。\n指令：-bup"
         }
     ]
