@@ -356,7 +356,7 @@ async def _call_gemini_tts_api(message: Message, text: str) -> tuple[str | None,
 
         model_name = db.get(Config.TTS_MODEL, Config.DEFAULT_TTS_MODEL)
         token_count_response = client.models.count_tokens(model=f"models/{model_name}", contents=[clean_text])
-        if token_count_response.total_tokens > 1500:
+        if token_count_response.total_tokens > 1000:
             raise ValueError(f"TOKEN_LIMIT_EXCEEDED:{token_count_response.total_tokens}")
 
         voice_name = db.get(Config.TTS_VOICE, Config.DEFAULT_TTS_VOICE)
@@ -983,7 +983,7 @@ async def _handle_tts(message: Message, args: str):
     except ValueError as e:
         if str(e).startswith("TOKEN_LIMIT_EXCEEDED"):
             total_tokens = str(e).split(":")[1].strip()
-            await _show_error(message, f"文本超过 1500 tokens 限制 ({total_tokens} tokens)，无法生成语音。")
+            await _show_error(message, f"文本超过 1000 tokens 限制 ({total_tokens} tokens)，无法生成语音。")
         else:
             await _show_error(message, f"发生意外错误: {e}")
 
@@ -1017,7 +1017,7 @@ async def _execute_audio_request(message: Message, args: str, use_search: bool):
     except ValueError as e:
         if str(e).startswith("TOKEN_LIMIT_EXCEEDED"):
             total_tokens = str(e).split(":")[1].strip()
-            fallback_reason = f"文本超过 1500 tokens 限制 ({total_tokens} tokens)。"
+            fallback_reason = f"文本超过 1000 tokens 限制 ({total_tokens} tokens)。"
             tts_result = False
         else:
             raise e
